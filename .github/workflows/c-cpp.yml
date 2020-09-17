@@ -14,5 +14,8 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       
+    - name: Go-CI
+    - uses: rk0dd/Go-CI@2.0.0
+    
     - name: make
       run: make 
