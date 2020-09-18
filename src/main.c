@@ -8,5 +8,6 @@
  printf("Sum is %d",mul(a,b));
  printf("Sum is %d",div(a,b));
  printf("Sum is %d",mod(a,b));
+ printf("Sum is %d",who(a,b));
  return 0;
  }
