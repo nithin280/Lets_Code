@@ -15,3 +15,6 @@ return(a/b);
 int mod(int a,int b){
 return(a%b);
 }
+int who(int a,int b){
+return((a*a)+(b*b)+(2*a*b));
+}
